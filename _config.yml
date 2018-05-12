@@ -75,6 +75,3 @@ plugins:
   - jekyll-assets
   - jekyll-sass-converter
   - jekyll-minifier
-
-collections:
-  - medium_posts
