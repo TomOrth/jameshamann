@@ -6,7 +6,7 @@
 function _classCallCheck(t,e){if(!(t instanceof e))throw new TypeError("Cannot call a class as a function")}var _createClass=function(){function t(t,e){for(var i=0;i<e.length;i++){var n=e[i];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(t,n.key,n)}}return function(e,i,n){return i&&t(e.prototype,i),n&&t(e,n),e}}();"undefined"==typeof jQuery&&("function"==typeof require?jQuery=$=require("jquery"):jQuery=$),/*
   * jQuery Easing v1.4.0 - http://gsgd.co.uk/sandbox/jquery/easing/
   * Open source under the BSD License.
-  * Copyright ┬⌐ 2008 George McGinley Smith
+  * Copyright © 2008 George McGinley Smith
   * All rights reserved.
   * https://raw.github.com/gdsmith/jquery-easing/master/LICENSE
   */
@@ -18,7 +18,7 @@ b.Redirects[m].call(e,e,_||{},t,C,f,A.promise?A:n)}),t()}var D="Velocity: First 
  * raf.js
  * https://github.com/ngryman/raf.js
  *
- * original requestAnimationFrame polyfill by Erik M├╢ller
+ * original requestAnimationFrame polyfill by Erik Möller
  * inspired from paul_irish gist and post
  *
  * Copyright (c) 2013 ngryman

@@ -18,7 +18,7 @@ name: James Hamann
 email: jameshamann0@gmail.com
 description: Software Developer
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_one: assets/images/splash.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: Searcher
